@@ -1,0 +1,4 @@
+rootProject.name='AndroidCV2'
+include ':app', ':sdk'
+include ':java'
+include ':openCVLibrary3410'
